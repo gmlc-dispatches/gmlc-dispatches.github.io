@@ -28,7 +28,7 @@ twitter_username:
 github_username:  gmlc-dispatches
 
 # Build settings
-theme: modernist
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
