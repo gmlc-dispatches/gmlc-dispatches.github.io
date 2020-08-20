@@ -5,3 +5,5 @@ nav:
   - Download: download.md
 docs_dir: src
 site_dir: docs
+extra_css:
+  - css/site.css
