@@ -1,1 +1,7 @@
 site_name: GLMC-DISPATCHES
+nav:
+  - Home: index.md
+  - Team: team.md
+  - Download: download.md
+docs_dir: src
+site_dir: docs
