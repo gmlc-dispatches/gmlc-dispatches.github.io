@@ -14,10 +14,8 @@ Idaho National Laboratory
 ![LBNL-Logo](img/LBNL-logo.png#logo)
 Lawrence Berkeley National Laboratory
 
-* Oluwamayowa (Mayo) Amusat
 * Keith Beattie
 * **Dan Gunter**
-* Jangho Park
 
 National Energy Technology Laboratory (Lead institution)
 
