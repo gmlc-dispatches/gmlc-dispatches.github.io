@@ -12,7 +12,7 @@ If you are modifying the website, follow these instructions.
 1. Clone or download the repository
 2. Change to the directory of the repository
 3. Install required Python modules: `pip install -r requirements.txt`
-4. Build/serve webite (see below)
+4. Build/serve website (see below)
 
 ### Building the website
 
