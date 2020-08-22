@@ -1,6 +1,6 @@
 # Team
 
-Lead PI: David Miller
+**Lead PI: David Miller**
 
 ## Partner Laboratories
 
@@ -17,9 +17,10 @@ Lawrence Berkeley National Laboratory
 * Keith Beattie
 * **Dan Gunter**
 
+![NETL-Logo](img/NETL-logo.jpg#logo)
 National Energy Technology Laboratory (Lead institution)
 
-* **David Miller**
+* **David Miller** (Lead PI)
 * Jaffer Ghouse
 * Andrew Lee
 
@@ -42,7 +43,7 @@ Sandia National Laboratories (SNL)
 
 Notre Dame University (ND):
 
-* Alexander Dowling
+* **Alexander Dowling**
 * Xian Gao
 
 ## Utility Partners
