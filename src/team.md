@@ -25,7 +25,7 @@ National Energy Technology Laboratory (Lead institution)
 * Andrew Lee
 
 ![NREL-Logo](img/NREL-logo.png#logo)
-National Renewable Energy Laboratory (NREL)
+National Renewable Energy Laboratory
 
 * **Janine Freeman**
 * Darice Guittet
@@ -34,14 +34,15 @@ National Renewable Energy Laboratory (NREL)
 * Matthew Reynolds
 
 ![SNL-Logo](img/SNL-logo.png#logo)
-Sandia National Laboratories (SNL)
+Sandia National Laboratories
 
 * Darryl Melander
 * **John Siirola**
 
 ## Academic Collaborators
 
-Notre Dame University (ND):
+![UND-Logo](img/UND-logo.png#logo)
+University of Notre Dame
 
 * **Alexander Dowling**
 * Xian Gao
@@ -49,7 +50,6 @@ Notre Dame University (ND):
 ## Utility Partners
 
 * NRECA
-* MISO
-* Associated Generation
 * Exelon
 * Bright Energy
+* ACES
