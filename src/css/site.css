@@ -3,3 +3,25 @@ img[src*="#logo"] {
     margin-right: 1em;
     border: 0;
  }
+img[src*="#project-logo"] {
+     height: 100px;
+     margin-right: 0.25em;
+     margin-top: -15px; /* centers logo on title */
+     border: 0;
+}
+/*
+ * Display top title on same row as logo
+ */
+div.container > div.row div[role="main"] > p:first-child, h1 {
+    display: inline-block;
+}
+img[src*="#project-logo-footer"] {
+    height: 150px;
+    margin: 1em 25% -1em 25%;
+    border: 0;
+    
+}
+/* Put logo in header */
+a.navbar-brand img {
+    width: 300px;
+}

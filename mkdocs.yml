@@ -1,10 +1,13 @@
 site_name: GLMC-DISPATCHES
+site_logo: img/dispatches-logo-1-cycle-words-light.png
 nav:
   - Home: index.md
   - Team: team.md
   - Download: download.md
 docs_dir: src
 site_dir: docs
+theme:
+  name: cerulean
+  custom_dir: 'gmlc_theme/'
 extra_css:
   - css/site.css
-theme: cerulean
