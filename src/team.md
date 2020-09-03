@@ -1,6 +1,9 @@
 # Team
 
-**Lead PI: David Miller**
+**Lead PI: David Miller (NETL)**
+
+The DISPATCHES team brings together internationally recognized experts in the
+fields of Chemical and Process Engineering, Nuclear Engineering, Applied Mathematics, and Computer Science.
 
 ## Partner Laboratories
 
