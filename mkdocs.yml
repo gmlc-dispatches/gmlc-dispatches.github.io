@@ -1,9 +1,10 @@
 site_name: GLMC-DISPATCHES
-site_logo: img/dispatches-logo-1-cycle-words-light.png
+site_logo: img/dispatches_logo-darkbg.svg
 nav:
   - Home: index.md
   - Team: team.md
   - Download: download.md
+  - Media: media.md
 docs_dir: src
 site_dir: docs
 theme:
